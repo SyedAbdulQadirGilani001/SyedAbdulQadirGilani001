@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedAbdulQadirGilani001
 - 👀 I’m interested in Artificial Intellegence,Data Science
-- 🌱 I’m currently learning as a Data Analyst
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me through LinkedIn https://www.linkedin.com/in/syedabdulqadir/
 
